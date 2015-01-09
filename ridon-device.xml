@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ridon/ridon-kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="ridon-remote" revision="ridon-5.0" />
+  <project name="ridon/ridon-device_qcom_common" path="device/qcom/common" remote="ridon-remote" revision="ridon-5.0" />
+
+</manifest>
+
